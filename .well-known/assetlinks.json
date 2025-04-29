@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.ton.app",
+      "package_name": "com.antoineapp.bingo",
       "sha256_cert_fingerprints": [
         "D7:9F:85:CB:47:B5:AD:17:B3:F5:A4:6E:16:2D:A5:9A:DE:AC:E1:53"
       ]
